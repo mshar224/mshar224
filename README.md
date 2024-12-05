@@ -1,5 +1,5 @@
 ## I've moved ‼️
-👉 [themanavsharma](https://github.com/themanavsharma)
+<h3>👉 <a href="https://github.com/themanavsharma"> themanavsharma</a></h3>
 Find my latest work there!
 
 <!--
